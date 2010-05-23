@@ -1,0 +1,5 @@
+A simple template project for setting up a new scala project in a DCI structure, prepared for sbt
+
+Installation
+
+when cloned remember to remove the .git folder
