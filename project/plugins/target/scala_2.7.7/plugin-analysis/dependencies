@@ -1,0 +1,8 @@
+#Source Dependencies
+#Sun May 23 09:34:58 CEST 2010
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaProjectDescriptor.scala=src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaPlugin.scala
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaPlugin.scala=
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaModuleDescriptor.scala=src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaPlugin.scala
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/ProjectPaths.scala=src_managed/sbt-idea-plugin-0.1-SNAPSHOT/SbtProjectDefinitionIdeaModuleDescriptor.scala\:src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaProjectDescriptor.scala\:src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaModuleDescriptor.scala
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/SbtProjectDefinitionIdeaModuleDescriptor.scala=src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaPlugin.scala
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/SaveableXml.scala=src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaPlugin.scala\:src_managed/sbt-idea-plugin-0.1-SNAPSHOT/SbtProjectDefinitionIdeaModuleDescriptor.scala\:src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaProjectDescriptor.scala\:src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaModuleDescriptor.scala

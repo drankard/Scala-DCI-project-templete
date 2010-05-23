@@ -11,4 +11,4 @@ now do the initial build to fetch the binaries
 type sbt
 
 change the properties to fit your project in 
-project/build.properties 
+project/build.properties

@@ -1,0 +1,11 @@
+idea
+exit
+clean 
+ls -l
+exit
+idea
+clean 
+compile
+test
+package
+exit

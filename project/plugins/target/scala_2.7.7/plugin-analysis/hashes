@@ -1,0 +1,8 @@
+#Source Hashes
+#Sun May 23 09:34:58 CEST 2010
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaProjectDescriptor.scala=da39fffad5d5de5a54689ef6f22a78691c0a1a46
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaPlugin.scala=4bf54ae00a52ced95da74eb3974c438d2d9bd54c
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/IdeaModuleDescriptor.scala=1d48488201c98960e459141b6a744d2c9eec8007
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/ProjectPaths.scala=d57412f9eefa423f43783113b632aeb26546830c
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/SbtProjectDefinitionIdeaModuleDescriptor.scala=4b8c1176792d5a16649967b53fe0cd966cf32d65
+src_managed/sbt-idea-plugin-0.1-SNAPSHOT/SaveableXml.scala=5fd74c63d305f1b3a00edaf7e8e806b9d979724a
