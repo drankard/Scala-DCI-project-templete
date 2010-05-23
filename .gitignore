@@ -2,6 +2,8 @@ target
 lib_managed
 src_managed
 project/boot
+project/build/target
+project/sbt_project_definition.iml
 out
 *.iml
 *.ipr
