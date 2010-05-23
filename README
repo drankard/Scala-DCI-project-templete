@@ -1,5 +1,14 @@
 A simple template project for setting up a new scala project in a DCI structure, prepared for sbt
 
 Installation
+git clone git://github.com/drankard/Scala-DCI-project-templete.git myproject
 
-when cloned remember to remove the .git folder
+Remember to remove the .git folder
+cd myproject
+rm -rf .git/
+
+now do the initial build to fetch the binaries
+type sbt
+
+change the properties to fit your project in 
+project/build.properties 
